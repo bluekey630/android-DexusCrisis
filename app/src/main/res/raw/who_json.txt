@@ -1,0 +1,118 @@
+[
+	  {
+		  "title": "",
+		  "contents": [
+						  {
+							  "role": "CEO (Chair) – determines membership from the following based on the crisis event",
+							  "name": "Darren Steinberg",
+							  "phone": "0417 262 980"
+							},
+
+						  {
+							  "role": "CFO",
+							  "name": "Alison Harrop",
+							  "phone": "0409 043 301"
+							  },
+
+						  {
+							  "role": "CIO",
+							  "name": "Ross Du Vernet",
+							  "phone": "0409 590 335"
+							  },
+
+						  {
+							  "role": "EGM O&I",
+							  "name": "Kevin George",
+							  "phone": "0408 311 070"
+							  },
+
+						  {
+							  "role": "EGM Retail",
+							  "name": "Stewart Hutcheon",
+							  "phone": "0408 631 576"
+							  },
+
+						  {
+							  "role": "EGM Customer & Marketing (Alternate Chair)",
+							  "name": "Deborah Coakley",
+							  "phone": "0417 481 754"
+							  },
+
+						  {
+							  "role": "General Counsel",
+							  "name": "Brett Cameron",
+							  "phone": "0466 746 475"
+							  },
+
+						  {
+							  "role": "EGM IR, Communications & Research",
+							  "name": "David Yates",
+							  "phone": "0418 861 047"
+							  },
+
+						  {
+							  "role": "EGM Funds Management",
+							  "name": "Graham Pearson",
+							  "phone": "0434 072 330"
+							  }
+				  ]
+		  },
+
+	  {
+		  "title": "Support Team",
+		  "contents": [
+						  {
+							  "role": "Risk & BCP Support",
+							  "name": "Scott Mahony",
+							  "phone": "0412 227 977"
+							  },
+
+						  {
+							  "role": "IT Support",
+							  "name": "Mark Hansen",
+							  "phone": "0411 660 160"
+							  },
+
+						  {
+							  "role": "P&C Support",
+							  "name": "Dan Cook",
+							  "phone": "0466 522 679"
+							  },
+
+						  {
+							  "role": "Communications Support",
+							  "name": "Louise Murray",
+							  "phone": "0403 260 754"
+							  }
+				  ]
+		  },
+
+	  {
+		  "title": "External Contacts",
+		  "contents": [
+						  {
+							  "role": "Public Communications & Media",
+							  "name": "Domestique Consulting",
+							  "phone": "02 9119 3352 (others TBC)"
+							  },
+
+						  {
+							  "role": "Employee Assistance Provider",
+							  "name": "Davidson Trahaire Corpsych",
+							  "phone": "1300 360 364"
+							  },
+
+						  {
+							  "role": "Legal",
+							  "name": "Jane Wild",
+							  "phone": "8233 9794"
+							  },
+
+						  {
+							  "role": "ASX",
+							  "name": "Andrew Weaver",
+							  "phone": "9227 0517"
+							  }
+				  ]
+		  }
+]

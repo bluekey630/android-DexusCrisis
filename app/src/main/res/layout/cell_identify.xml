@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:src="@drawable/ic_tab_1"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="35dp"
+        android:id="@+id/imgvTab"
+        android:layout_width="40dp"
+        android:layout_height="80dp" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignTop="@+id/imgvTab"
+        android:layout_toEndOf="@+id/imgvTab"
+        android:id="@+id/lyList"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="20dp">
+    </LinearLayout>
+    <TextView
+        android:text="GATHER INFORMATION"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvTitle"
+        android:layout_alignLeft="@+id/lyList"
+        android:layout_above="@+id/lyList"
+        android:textSize="18sp"
+        android:textColor="@color/colorPrimary"
+        android:textStyle="normal|bold"
+        android:layout_marginStart="10dp"
+        android:layout_marginBottom="5dp" />
+
+
+</RelativeLayout>

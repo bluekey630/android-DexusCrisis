@@ -1,0 +1,70 @@
+[
+        {
+            "Title" : "ACTIVATE PLAN",
+			"Description": "CEO or delegated alternate convenes the CMT to determine the immediate course of action",
+			"Items" : [
+							{
+								"SubTitle" : "CONVENE THE CMT",
+								"Content"  : "to assess the need for a crisis to be declared and for functional support teams to be put on notice"
+							},
+
+							{
+								"SubTitle" : "ACTIVATE",
+								"Content"  : "the CMT’s management of the incident (refer to section 1 on reverse page)"
+							},
+
+							{
+								"SubTitle" : "REFER",
+								"Content"  : "the incident to the control of the Sector Head if it is not deemed to warrant CMT management, with an agreement to maintain consultations with the CEO or alternate to continue monitoring the incident"
+							}
+					   ]
+		},
+
+		{
+            "Title" : "ASSESS",
+			"Content" : [
+							{
+								"Description": "The team will determine the current state of:",
+								"Items" : [
+												"incident impacts and potential opportunities",
+												"any impairment to business functionality",
+												"internal and external resources available for the response"
+										   ]
+							},
+
+							{
+								"Description": "The team will also consider:",
+								"Items" : [
+												"invoking planned strategies (as outlined in the BCP)",
+												"mobilising known external resources",
+												"the likely timeframe for resolution of the crisis"
+										   ]
+							}
+						]
+
+		},
+
+		{
+			"Title" : "MANAGE/MONITOR EVENT",
+			"Content" : [
+							{
+								"Text" : "General Counsel establishes a record of key decisions and a log of actions, as well as arrangements for ongoing collaboration and internal communications."
+							},
+
+							{
+								"Text" : "Consider monitoring:",
+								"SubItems" : [
+									"Broadcast Media",
+									"Internal Emails",
+									"Social Media",
+									"Incoming enquiries",
+									"Staff and contractor feedback"
+								]
+							},
+
+							{
+								"Text" : "Manage the wellbeing of staff and handover of duties to alternatives as required."
+							}
+						]
+		}
+]

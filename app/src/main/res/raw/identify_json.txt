@@ -1,0 +1,58 @@
+[
+        {
+            "Title" : "GATHER INFORMATION",
+			"Content" : [
+							{
+								"SubTitle" : "",
+								"Description": "The following events constitue a crisis event.",
+								"Items" : [
+											 "Terrorism",
+											 "Hostage situation, siege, building invasion, armed intrusion",
+											 "Significant health & safety incidents",
+											 "CBD/Building Evacuation",
+											 "Bomb threat",
+											 "Major structural damage/instability",
+											 "Environmental contamination (chemical spills etc)",
+											 "Civil disorder (demonstrations, riots etc)",
+											 "Fire/explosion",
+											 "Loss of essential services (A/C, security, lifts etc.)",
+											 "Loss of utilities (electricity, water, gas etc.)",
+											 "Major water entry",
+											 "Gas Leak",
+											 "Confirmed contagious disease"
+										  ]
+							},
+
+							{
+								"SubTitle" : "SPECIFICS OF INCIDENT",
+								"Description": "Staff should ascertain:",
+								"Items" : [
+											 "Time(s) and location(s)of the incident",
+											 "What is happening, and what is the likely or confirmed cause of the incident?",
+											 "Initial impacts - current, likely and potential",
+											 "Expected duration of the incident (if ongoing)",
+											 "Potential for recurrence or spread",
+											 "Whether or not the incident has \"gone public\""
+										  ]
+							}
+
+						]
+		},
+
+		{
+            "Title" : "NOTIFY / ESCALATE",
+			"Content" : [
+							{
+								"SubTitle" : "",
+								"Description": "",
+								"Items" : [
+											 "Where the safety of any individual is at risk, DEXUS must take appropriate emergency actions and notify others potentially impacted/at risk as soon as practicable.",
+											 "Upon establishing the safety of those directly impacted, the Head of will provide available details to inform the next phase of escalation.",
+											 "In the event of a technology related incident, DEXUS Information Technology must be notified."
+										  ]
+							}
+
+						]
+		}
+
+]

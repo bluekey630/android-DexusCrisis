@@ -1,0 +1,47 @@
+[
+	{
+	  "Descriptor": "Financial/ Strategic",
+	  "Impact": "Financial loss in excess of $30m",
+	  "Example": [
+					"Large fraud, internal or external (including cyber-attacks)",
+					"Failure of key building/ development partner creating flow on financial impacts and/or uncertainty"
+				  ]
+	},
+
+	{
+	  "Descriptor": "Reputation and image",
+	  "Impact": "Sustained negative media attention",
+	  "Example": [
+					"Ongoing grass-roots/social media campaign successfully targeting the Asset",
+					"Workplace scandal resulting in significant media scrutiny (e.g. asbestos release/exposure)",
+					"Criminal extortion attempts"
+				 ]
+	},
+
+	{
+	  "Descriptor": "Environment",
+	  "Impact": "Severe damage to the environment. Impact affecting wide area for more than 10 years",
+	  "Example": [
+					"Chemical and/or toxic substance release",
+					"Impacts relating to natural or engineering disasters"
+				  ]
+	},
+
+	{
+	  "Descriptor": "Safety",
+	  "Impact": "Single or multiple fatalities",
+	  "Example": [
+					"Confirmed explosive devices found at the Centre",
+					"Active armed assailant situation",
+					"Structural or procedural failure at a DEXUS owned site resulting in multiple injuries/fatalities"
+				 ]
+	},
+
+	{
+	  "Descriptor": "People",
+	  "Impact": "Unexpected/ unplanned loss or death of 5 or more within a short period",
+	  "Example": [
+					"Critical numbers of staff injured or otherwise unavailable for work for greater than 1 week (such as following large natural disasters)"
+				 ]
+	  }
+ ]

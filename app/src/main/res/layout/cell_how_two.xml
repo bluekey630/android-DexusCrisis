@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    android:paddingTop="2dp"
+    android:paddingBottom="2dp">
+
+    <ImageView
+        android:src="@drawable/ic_quote_start"
+        android:layout_width="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/imageView3"
+        android:layout_height="40dp" />
+
+    <ImageView
+        android:src="@drawable/ic_quote_end"
+        android:layout_width="40dp"
+        android:layout_alignBottom="@id/lyList"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/imageView4"
+        android:layout_height="40dp" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lyList"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/imageView3"
+        android:layout_toStartOf="@+id/imageView4"
+        android:paddingTop="20dp"
+        android:paddingBottom="20dp">
+
+        <TextView
+            android:text="OUR PRIORITIES:"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvTitle"
+            android:textSize="18sp"
+            android:textColor="@color/colorPrimary"
+            android:textStyle="normal|bold"
+            android:layout_marginStart="10dp"
+            android:layout_marginBottom="5dp" />
+
+    </LinearLayout>
+</RelativeLayout>

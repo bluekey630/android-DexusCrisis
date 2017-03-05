@@ -1,0 +1,68 @@
+[
+        {
+            "Title" : "3. COMMAND CENTRE LOCATIONS",
+			"Items" : [
+							{
+								"first" : "Primary",
+								"second" : [
+												"264 George St",
+												"Brisbane meeting room"
+											]
+							},
+
+							{
+								"first" : "Secondary location (CBD)",
+								"second" : [
+												"1 Bligh St",
+												"Building Management Office"
+											]
+							},
+
+							{
+								"first" : "Secondary location (non CBD)",
+								"second" : [
+												"Victoria Cross",
+												"60 Miller St, North Sydney"
+											]
+							}
+					   ]
+		},
+
+		{
+            "Title" : "4. WHEN ASSESSING THE INCIDENT",
+			"Description" : "CMT meeting should consider responses across the following:",
+			"Items" : [
+							{
+								"first" : "1  Re-assessment",
+								"second" : "5  Information Technology"
+							},
+
+							{
+								"first" : "2  People",
+								"second" : "6  Regulatory"
+							},
+
+							{
+								"first" : "3  Communications",
+								"second" : "7  Open Action Items Updated"
+							},
+
+							{
+								"first" : "4  Continuity",
+								"second" : "8  Next meeting details"
+							}
+					   ]
+		},
+
+		{
+			"Title" : "OUR PRIORITIES:",
+			"Items" : [
+						  "Ensure health, safety & security of DEXUS employees, contractors & the general public",
+						  "Eliminate &/or mitigate the threat where possible",
+						  "Maintain trust of DEXUS clients & stakeholders",
+						  "Protect DEXUS\'s reputation",
+						  "Ensure the continuity of DEXUS services & minimise any operational, financial or other impacts",
+						  "Take action to protect the environment & DEXUS assets"
+					  ]
+		}
+]

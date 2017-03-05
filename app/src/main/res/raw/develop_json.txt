@@ -1,0 +1,33 @@
+[
+        {
+            "Title" : "RESOLVE",
+			"Items" : [
+							"Once the incident is under control, or subsiding in severity, the CEO may declare the crisis \"resolved\" and refer ongoing management to the relevant area(s)",
+							"Where circumstances and resources allow, the CEO may appoint a working group to consider opportunities to gain from and/or optimise DEXUS\' position (brand, financial, assets, etc.) throughout and beyond the recovery phase."
+					   ]
+		},
+
+		{
+            "Title" : "DEACTIVATE & DEBRIEF",
+			"Description" : "When the CEO assesses all actions are complete:",
+			"Items" : [
+							"Inform all CMT members (primary & alternate) that the crisis has been resolved",
+							"Inform external stakeholders who have been communicated with throughout the crisis that the situation has been resolved and extend participation in debrief processes if appropriate"
+					  ]
+
+		},
+
+		{
+			"Title" : "IMPROVE",
+			"Content" : "Gather lessons learnt (from internal and external stakeholders) through a post incident review (PIR)",
+			"Description" : "Consider the following areas for the PIR:",
+			"Items" : [
+							"Appropriateness & timeliness of invocations",
+							"Prioritisation of critical activities",
+							"Brand & 3rd party stakeholder management",
+							"Adoption of roles & responsibilities",
+							"Success of communications",
+							"Team & support resource management"
+						]
+		}
+]
